@@ -14,9 +14,9 @@ type: Opaque
 stringData:
   config.production.json: |-
     {
-      "url": "https://yourdomain.tld",
+      "url": "https://ghost.arkhaya.duckdns.org",
       "admin": {
-        "url": "https://yourdomain.tld"
+        "url": "https://ghost.arkhaya.duckdns.org"
       },
       "server": {
         "port": 2368,
